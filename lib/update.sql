@@ -1,1 +1,1 @@
-UPDATE species FROM characters 
+UPDATE characters  
