@@ -14,10 +14,10 @@ INSERT INTO books(title, year, series_id)
 VALUES ("The Prisoner of Azkaban", 1999, 3);
 
 INSERT INTO books(title, year, series_id)
-VALUES ("Twilight", );
+VALUES ("Twilight", 2008, 4);
 
 INSERT INTO books(title, year, series_id)
-VALUES ();
+VALUES ("");
 
 INSERT INTO books(title, year, series_id)
-VALUES ();
+VALUES ("");
