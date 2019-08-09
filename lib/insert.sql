@@ -41,7 +41,7 @@ INSERT INTO characters(name, species, motto, author_id)
 VALUES ("Edward", "vampire", "", 2);
 
 INSERT INTO characters(name, species, motto, author_id)
-VALUES ("Belle", "", "", 2);
+VALUES ("Jacob", "wolf", "", 2);
 
 INSERT INTO characters(name, species, motto, author_id)
 VALUES ("", "", "", 2);
