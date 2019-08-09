@@ -35,10 +35,10 @@ INSERT INTO characters(name, species, motto, author_id)
 VALUES ("Lord Voldemort", "wizard", "", 1);
 
 INSERT INTO characters(name, species, motto, author_id)
-VALUES ("", "", "", 2);
+VALUES ("Bella", "human", "", 2);
 
 INSERT INTO characters(name, species, motto, author_id)
-VALUES ("Edward", "", "", 2);
+VALUES ("Edward", "vampire", "", 2);
 
 INSERT INTO characters(name, species, motto, author_id)
 VALUES ("Belle", "", "", 2);
