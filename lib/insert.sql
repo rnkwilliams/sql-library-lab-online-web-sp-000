@@ -5,10 +5,10 @@ INSERT INTO series (title, author_id, subgenre_id)
 VALUES ("Twilight", 2, 2);
 
 INSERT INTO books(title, year, series_id)
-VALUES ();
+VALUES ("The Philosopher's Stone", 2007, 1);
 
 INSERT INTO books(title, year, series_id)
-VALUES ();
+VALUES ("");
 
 INSERT INTO books(title, year, series_id)
 VALUES ();
