@@ -45,3 +45,6 @@ VALUES ("Jacob", "wolf", "I can smell him.", 2);
 
 INSERT INTO characters(name, species, motto, author_id)
 VALUES ("Alice", "vampire", "I love to imagine things.", 2);
+
+INSERT INTO subgenres()
+VALUES ();
