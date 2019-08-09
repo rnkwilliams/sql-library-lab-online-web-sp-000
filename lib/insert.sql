@@ -21,3 +21,6 @@ VALUES ("The Twilight Saga: New Moon", 2009, 5);
 
 INSERT INTO books(title, year, series_id)
 VALUES ("The Twilight Saga: Eclipse", 2010, 6);
+
+INSERT INTO characters(name, species, motto, author_id)
+VALUES ();
