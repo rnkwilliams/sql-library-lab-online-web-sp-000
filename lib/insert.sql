@@ -26,7 +26,7 @@ INSERT INTO characters(name, species, motto, author_id)
 VALUES ("Harry Potter", "", "", );
 
 INSERT INTO characters(name, species, motto, author_id)
-VALUES ("", "", "", );
+VALUES ("Hermione Granger", "", "", );
 
 INSERT INTO characters(name, species, motto, author_id)
 VALUES ("", "", "", );
