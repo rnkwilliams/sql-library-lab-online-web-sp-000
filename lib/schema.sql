@@ -6,11 +6,11 @@ CREATE TABLE characters(
   );
 
 CREATE TABLE books(
-  
+  id INTEGER PRIMARY KEY,
 );
 
 CREATE TABLE series(
-
+  
 );
 
 CREATE TABLE authors(
