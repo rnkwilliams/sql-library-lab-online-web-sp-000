@@ -12,19 +12,10 @@ CREATE TABLE subgenres(
 
 CREATE TABLE authors(
   id INTEGER PRIMARY KEY,
+  name TEXT
 );
 
 
-CREATE TABLE characters(
-  id INTEGER PRIMARY KEY,
-  name TEXT,
-  motto TEXT,
-  species TEXT
-  );
-
-CREATE TABLE books(
-  id INTEGER PRIMARY KEY,
-);
 
 
 
