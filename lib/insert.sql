@@ -23,25 +23,25 @@ INSERT INTO books(title, year, series_id)
 VALUES ("The Twilight Saga: Eclipse", 2010, 6);
 
 INSERT INTO characters(name, species, motto, author_id)
-VALUES ("Harry Potter", "human", "Leave me alone", 1);
+VALUES ("Harry Potter", "human", "Leave me alone!", 1);
 
 INSERT INTO characters(name, species, motto, author_id)
-VALUES ("Hermione Granger", "human", "", 1);
+VALUES ("Hermione Granger", "human", "It is magic!", 1);
 
 INSERT INTO characters(name, species, motto, author_id)
-VALUES ("Ron Weasley", "human", "", 1);
+VALUES ("Ron Weasley", "human", "Hello!", 1);
 
 INSERT INTO characters(name, species, motto, author_id)
-VALUES ("Lord Voldemort", "wizard", "", 1);
+VALUES ("Lord Voldemort", "wizard", "Magic potions!", 1);
 
 INSERT INTO characters(name, species, motto, author_id)
-VALUES ("Bella", "human", "", 2);
+VALUES ("Bella", "human", "Love no more.", 2);
 
 INSERT INTO characters(name, species, motto, author_id)
-VALUES ("Edward", "vampire", "", 2);
+VALUES ("Edward", "vampire", "I love her.", 2);
 
 INSERT INTO characters(name, species, motto, author_id)
-VALUES ("Jacob", "wolf", "", 2);
+VALUES ("Jacob", "wolf", "I can smell him.", 2);
 
 INSERT INTO characters(name, species, motto, author_id)
-VALUES ("", "", "", 2);
+VALUES ("Alice", "vampire", "I love to imagine things.", 2);
