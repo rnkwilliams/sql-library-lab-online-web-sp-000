@@ -2,9 +2,9 @@ CREATE TABLE characters();
 
 CREATE TABLE books();
 
-CREATE TABLE characters();
+CREATE TABLE series();
 
-CREATE TABLE characters();
+CREATE TABLE authors();
 
-CREATE TABLE characters();
+CREATE TABLE sub-genres();
 
