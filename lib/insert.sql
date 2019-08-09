@@ -58,5 +58,6 @@ VALUES ("Stephanie Meyer");
 INSERT INTO authors(name)
 VALUES ("J.K. Rowling");
 
-
+INSERT INTO character_books(book_id, Character_id)
+VALUES ();
 
