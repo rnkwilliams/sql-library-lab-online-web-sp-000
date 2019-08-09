@@ -31,3 +31,6 @@ VALUES ("", "", "", );
 INSERT INTO characters(name, species, motto, author_id)
 VALUES ("", "", "", );
 
+INSERT INTO characters(name, species, motto, author_id)
+VALUES ("", "", "", );
+
