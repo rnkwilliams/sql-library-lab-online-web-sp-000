@@ -49,4 +49,6 @@ VALUES ("Alice", "vampire", "I love to imagine things.", 2);
 INSERT INTO subgenres(name)
 VALUES ("Romance");
 
+INSERT INTO subgenres(name)
+VALUES ("Comedy");
 
