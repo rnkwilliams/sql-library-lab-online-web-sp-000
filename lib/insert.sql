@@ -32,7 +32,7 @@ INSERT INTO characters(name, species, motto, author_id)
 VALUES ("Ron Weasley", "", "", );
 
 INSERT INTO characters(name, species, motto, author_id)
-VALUES ("", "", "", );
+VALUES ("Lord Voldemort", "", "", );
 
 INSERT INTO characters(name, species, motto, author_id)
 VALUES ("", "", "", );
