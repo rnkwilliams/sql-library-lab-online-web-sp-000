@@ -11,7 +11,7 @@ INSERT INTO books(title, year, series_id)
 VALUES ("The Chamber of Secrets", 1998, 2);
 
 INSERT INTO books(title, year, series_id)
-VALUES ("");
+VALUES ("The Prisoner of Azkaban", 1999, 3);
 
 INSERT INTO books(title, year, series_id)
 VALUES ();
