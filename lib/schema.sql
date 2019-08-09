@@ -1,4 +1,8 @@
-CREATE TABLE characters();
+CREATE TABLE characters(
+  id INTEGER PRIMARY KEY,
+  name TEXT,
+  
+);
 
 CREATE TABLE books();
 
