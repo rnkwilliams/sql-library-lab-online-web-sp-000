@@ -23,7 +23,7 @@ INSERT INTO books(title, year, series_id)
 VALUES ("The Twilight Saga: Eclipse", 2010, 6);
 
 INSERT INTO characters(name, species, motto, author_id)
-VALUES ("", "", "", );
+VALUES ("Harry Potter", "", "", );
 
 INSERT INTO characters(name, species, motto, author_id)
 VALUES ("", "", "", );
