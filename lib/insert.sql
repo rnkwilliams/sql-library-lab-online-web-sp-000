@@ -52,10 +52,10 @@ VALUES ("Romance");
 INSERT INTO subgenres(name)
 VALUES ("Comedy");
 
-INSERT INTO author(name)
+INSERT INTO authors(name)
 VALUES ("Stephanie Meyer");
 
-INSERT INTO author(name)
+INSERT INTO authors(name)
 VALUES ("J.K. Rowling");
 
 
