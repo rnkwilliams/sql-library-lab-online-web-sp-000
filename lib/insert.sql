@@ -52,9 +52,11 @@ VALUES ("Romance");
 INSERT INTO subgenres(name)
 VALUES ("Comedy");
 
-INSERT INTO subgenres(name)
+INSERT INTO author(name)
 VALUES ("Romance");
 
+INSERT INTO author(name)
+VALUES ("Romance");
 
 
 
