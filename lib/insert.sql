@@ -25,3 +25,6 @@ VALUES ("The Twilight Saga: Eclipse", 2010, 6);
 INSERT INTO characters(name, species, motto, author_id)
 VALUES ("", "", "", );
 
+INSERT INTO characters(name, species, motto, author_id)
+VALUES ("", "", "", );
+
