@@ -56,7 +56,7 @@ INSERT INTO author(name)
 VALUES ("Stephanie Meyer");
 
 INSERT INTO author(name)
-VALUES ("Romance");
+VALUES ("J.K. Rowling");
 
 
 
