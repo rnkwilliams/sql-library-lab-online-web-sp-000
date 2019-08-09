@@ -1,5 +1,5 @@
 CREATE TABLE series (
-  id INTEGER PRIMARY KEY,
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
   title TEXT,
   author_id INTEGER,
   subgenre_id INTEGER
