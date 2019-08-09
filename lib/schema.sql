@@ -14,10 +14,10 @@ CREATE TABLE series(
 );
 
 CREATE TABLE authors(
-  
+  id INTEGER PRIMARY KEY,
 );
 
 CREATE TABLE sub-genres(
-
+  
 );
 
