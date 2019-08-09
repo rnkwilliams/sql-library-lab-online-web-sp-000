@@ -10,11 +10,11 @@ CREATE TABLE books(
 );
 
 CREATE TABLE series(
-  
+  id INTEGER PRIMARY KEY,
 );
 
 CREATE TABLE authors(
-
+  
 );
 
 CREATE TABLE sub-genres(
