@@ -16,3 +16,6 @@ VALUES ();
 INSERT INTO books(title, year, series_id)
 VALUES ();
 
+INSERT INTO books(title, year, series_id)
+VALUES ();
+
