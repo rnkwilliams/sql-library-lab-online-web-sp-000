@@ -17,7 +17,7 @@ INSERT INTO books(title, year, series_id)
 VALUES ("Twilight", 2008, 4);
 
 INSERT INTO books(title, year, series_id)
-VALUES ("");
+VALUES ("The Twilight Saga: New Moon", 2009, 5);
 
 INSERT INTO books(title, year, series_id)
 VALUES ("");
