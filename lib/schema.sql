@@ -5,11 +5,19 @@ CREATE TABLE characters(
   species TEXT
   );
 
-CREATE TABLE books();
+CREATE TABLE books(
+  
+);
 
-CREATE TABLE series();
+CREATE TABLE series(
 
-CREATE TABLE authors();
+);
 
-CREATE TABLE sub-genres();
+CREATE TABLE authors(
+
+);
+
+CREATE TABLE sub-genres(
+
+);
 
