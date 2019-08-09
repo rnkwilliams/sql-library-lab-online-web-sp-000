@@ -8,7 +8,7 @@ INSERT INTO books(title, year, series_id)
 VALUES ("The Philosopher's Stone", 2007, 1);
 
 INSERT INTO books(title, year, series_id)
-VALUES ("");
+VALUES ("The Chamber of Secrets");
 
 INSERT INTO books(title, year, series_id)
 VALUES ();
