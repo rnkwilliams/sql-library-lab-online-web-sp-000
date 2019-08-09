@@ -18,6 +18,6 @@ CREATE TABLE authors(
 );
 
 CREATE TABLE sub-genres(
-  
+  id INTEGER PRIMARY KEY,
 );
 
